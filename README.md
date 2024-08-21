@@ -8,7 +8,11 @@ In this repository we provide code of the paper:
 
 The **H4M Dataset** is released at: [https://indigopurple.github.io/H4M/index.html](https://indigopurple.github.io/H4M/index.html)
 
-<p align="left">
+<p align="center">
+<img src="teaser.jpg">
+</p>
+
+<p align="center">
 <img src="corr.png">
 </p>
 

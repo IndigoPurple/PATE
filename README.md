@@ -34,7 +34,7 @@ python main.py
 | House Price Prediction: A Multi-Source Data Fusion Perspective                        | [Paper](https://ieeexplore.ieee.org/abstract/document/10654670) | [Code](https://github.com/IndigoPurple/house)  |
 | A Large-Scale Spatio-Temporal Multimodal Fusion Framework for Traffic Prediction                          | [Paper](https://ieeexplore.ieee.org/abstract/document/10654669) |                       -                        |
 | Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping                           |            [Paper](https://arxiv.org/abs/2208.11061)            | [Code](https://github.com/luckkyzhou/TCP-MFRM) |
-| PATE: Property, Amenities, Traffic and Emotions Coming Together for Real Estate Price Prediction                      |            [Paper](http://arxiv.org/abs/2110.04966)             |  [Code](https://github.com/IndigoPurple/PATE)  |
+| PATE: Property, Amenities, Traffic and Emotions Coming Together for Real Estate Price Prediction                      |            [Paper](https://arxiv.org/abs/2209.05471)             |  [Code](https://github.com/IndigoPurple/PATE)  |
 | H4M: Heterogeneous, Multi-source, Multi-modal, Multi-view and Multi-distributional Dataset for Socioeconomic Analytics in Case of Beijing |                            [Paper](https://arxiv.org/abs/2208.12542)                            |                    [Code](https://github.com/IndigoPurple/H4M)                    |
 
 

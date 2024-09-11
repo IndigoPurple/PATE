@@ -37,7 +37,6 @@ else:
     if remove_e:
         data = data.drop(['AgrPct', 'DstPct', 'HppPct', 'SadPct', 'FeaPct'], axis=1)
 
-
 print(data.head())
 print(data.dtypes)
 print(data.isnull().sum())
